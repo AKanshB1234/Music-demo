@@ -1,0 +1,17 @@
+#h3{
+    width: 100%;
+    font-size:25px;
+}
+#spa{
+    font-size:15px;
+}
+body{
+    background-image: url("background.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+canvas{
+    background-color: beige;
+}
